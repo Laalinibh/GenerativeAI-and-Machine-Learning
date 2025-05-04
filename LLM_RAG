@@ -1,0 +1,20 @@
+<script>start("/Users/laalinib68gmail.com/code repo/.vscode/LLM_RAG/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("adaptive_attetnion_span_mechanism.py","adaptive_attetnion_span_mechanism.py",0,1468,"1.4 kB",1746194374,"02/05/2025, 19:29:34");</script>
+<script>addRow("chunkdocsintooverlappingwindows.py","chunkdocsintooverlappingwindows.py",0,371,"371 B",1746193762,"02/05/2025, 19:19:22");</script>
+<script>addRow("few_shot_learning_with_gpt_like_transformer.py","few_shot_learning_with_gpt_like_transformer.py",0,1671,"1.6 kB",1746194695,"02/05/2025, 19:34:55");</script>
+<script>addRow("flash_attention.py","flash_attention.py",0,2032,"2.0 kB",1746193926,"02/05/2025, 19:22:06");</script>
+<script>addRow("kv caching.py","kv%20caching.py",0,987,"987 B",1746193767,"02/05/2025, 19:19:27");</script>
+<script>addRow("Linformer.py","Linformer.py",0,1454,"1.4 kB",1746194193,"02/05/2025, 19:26:33");</script>
+<script>addRow("memoryoptimization_with_gradient_checkpointing_and_mixed_precision.py","memoryoptimization_with_gradient_checkpointing_and_mixed_precision.py",0,2291,"2.2 kB",1746194605,"02/05/2025, 19:33:25");</script>
+<script>addRow("minimal_llm_inference_engine.py","minimal_llm_inference_engine.py",0,2334,"2.3 kB",1746194122,"02/05/2025, 19:25:22");</script>
+<script>addRow("parallelised_transformer_training_with_gpu.py","parallelised_transformer_training_with_gpu.py",0,2228,"2.2 kB",1746194557,"02/05/2025, 19:32:37");</script>
+<script>addRow("quantization.py","quantization.py",0,491,"491 B",1746193765,"02/05/2025, 19:19:25");</script>
+<script>addRow("RAG_with embeddedretreivalngeneration.py","RAG_with%20embeddedretreivalngeneration.py",0,2470,"2.4 kB",1746194513,"02/05/2025, 19:31:53");</script>
+<script>addRow("reversible_transformer_block.py","reversible_transformer_block.py",0,1178,"1.2 kB",1746194291,"02/05/2025, 19:28:11");</script>
+<script>addRow("Rotaryposiitionalencoding.py","Rotaryposiitionalencoding.py",0,1442,"1.4 kB",1746193889,"02/05/2025, 19:21:29");</script>
+<script>addRow("sparse_attention_mechanism.py","sparse_attention_mechanism.py",0,2055,"2.0 kB",1746194443,"02/05/2025, 19:30:43");</script>
+<script>addRow("token merging in attention.py","token%20merging%20in%20attention.py",0,2313,"2.3 kB",1746194048,"02/05/2025, 19:24:08");</script>
+<script>addRow("trainable_FAISS.py","trainable_FAISS.py",0,2580,"2.5 kB",1746193998,"02/05/2025, 19:23:18");</script>
+<script>addRow("transformer_based_summarization.py","transformer_based_summarization.py",0,1499,"1.5 kB",1746194409,"02/05/2025, 19:30:09");</script>
+<script>addRow("transformerwithexternalmemory.py","transformerwithexternalmemory.py",0,1692,"1.7 kB",1746194235,"02/05/2025, 19:27:15");</script>
